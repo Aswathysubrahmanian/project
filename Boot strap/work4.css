@@ -1,0 +1,56 @@
+body {
+    height: 10000px;
+}
+
+h1 {
+    color: rgb(134, 42, 134);
+}
+
+span {
+    color: violet;
+}
+
+#A {
+    margin-left: 720px;
+
+}
+
+button {
+    background-color: rgb(136, 18, 136);
+    color: white;
+    border-radius: 20px;
+    border: solid rgb(136, 18, 136);
+    border-width: 1px;
+    height: 45px;
+    width: 121px;
+}
+
+button:hover {
+    background-color: white;
+    color: rgb(156, 19, 156);
+}
+
+#b{
+    margin-top: -492px;
+}
+.row{
+    margin-top: 350px;
+    display: flex;
+    
+}
+h5{
+    color: rgb(94, 13, 94);
+}
+#butto{
+    background-color: rgb(104, 17, 104);
+    color: white;
+    border-radius: 0px;
+    border: solid rgb(104, 17, 104;
+}
+.col:hover{
+    bottom: 0px;
+    opacity: 1;
+   
+    margin-top: -40px;
+    
+}

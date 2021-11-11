@@ -1,0 +1,33 @@
+.row{
+    border: solid black;
+    background-color: gray;
+    width: 600px;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+
+}
+.col{
+    height: 100px;
+    width: 100px;
+    border:solid black;
+   
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+/* .col-1{
+    background-color: pink;
+}
+.col-2{
+    background-color: purple;
+}
+.col-3{
+    background-color: rebeccapurple;
+}
+.col-4{
+    background-color: red;
+    
+} */

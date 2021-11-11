@@ -1,0 +1,20 @@
+div{
+    border: solid black 1px;
+    background-color: cadetblue;
+    height: 400px;
+    width: 400px;
+    position: fixed;
+    left: 457px;
+    top: 130px;
+    
+}
+body{
+    background-color: cornsilk;
+    height: 2000px;
+}
+#a p{
+    text-align: center;
+}
+button{
+    align-items: center;
+}

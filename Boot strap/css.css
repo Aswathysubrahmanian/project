@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Noto+Serif+Display:ital@1&display=swap');
+img{
+    height: 250px;
+    width: 33%;
+  margin-left: -12px;
+}
+p{
+    text-align: center;
+    color: white;
+    text-transform: capitalize;
+    padding-left: 85px;
+    margin-top: -245px;
+    font-family: 'Lobster', cursive;
+font-family: 'Noto Serif Display', serif;
+}
+body{
+    background-color: teal;
+}
+
+#a1{
+    
+    text-align: left;
+    font-family:'Italianno', cursive ;
+    font-size: 15px;
+    color: white;
+    padding-left: 170px;
+    margin-top: 0px;
+    
+}
+  .col-4{
+      width: 33%;
+        border: solid white 2px; 
+        height:250px ;
+        border-style: groove;
+  }  
+  h1{
+      color: tomato;
+      font-family: 'Noto Serif Display', serif;
+  }
+  

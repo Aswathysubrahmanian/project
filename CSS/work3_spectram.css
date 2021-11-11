@@ -1,0 +1,116 @@
+body{
+    background-color: black;
+}
+h1{
+    font-family: fantasy;
+}
+div{
+    border: solid black 1 px;
+    width: 50px;
+    height: 100px;
+}
+#b1{
+    background-color: gray;
+    margin-left: 254px;
+    margin-top: 102px;
+}
+#b2{
+    background-color: green;
+    margin-left: 307px;
+    margin-top: -100px;
+}
+#b3{
+    background-color: greenyellow;
+    margin-left: 365px;
+    margin-top: -100px;
+}
+#b4{
+    background-color: khaki;
+    margin-left: 422px;
+    margin-top: -100px;
+}
+#b5{
+    background-color:lavender;
+    margin-left: 473px;
+    margin-top: -100px;
+}
+#b6{
+    background-color:lightcoral;
+    margin-left: 193px;
+    margin-top: 11px;
+}
+#b7{
+    background-color:lightsalmon;
+    margin-left: 253px;
+    margin-top: -100px;
+}
+#b8{
+    background-color:linen;
+    margin-left: 307px;
+    margin-top: -100px;
+}
+#b9{
+    background-color:maroon;
+    margin-left: 362px;
+    margin-top: -100px;
+}
+#b10{
+    background-color:mediumblue;
+    margin-left: 419px;
+    margin-top: -100px;
+}
+#b11{
+    background-color:mediumturquoise;
+    margin-left: 473px;
+    margin-top: -100px;
+}
+#b12{
+    background-color:olive;
+    margin-left: 528px;
+    margin-top: -100px;
+}
+#b13{
+    background-color:orchid;
+    margin-left: 118px;
+    margin-top: 20px;
+}
+#b14{
+    background-color:peru;
+    margin-left: 173px;
+    margin-top: -100px;
+}
+#b15{
+    background-color:purple;
+    margin-left: 227px;
+    margin-top: -100px;
+}
+#b16{
+    background-color:saddlebrown;
+    margin-left: 281px;
+    margin-top: -100px;
+}
+#b17{
+    background-color:skyblue;
+    margin-left: 336px;
+    margin-top: -100px;
+}
+#b18{
+    background-color:tan;
+    margin-left: 392px;
+    margin-top: -100px;
+}
+#b19{
+    background-color:teal;
+    margin-left: 448px;
+    margin-top: -100px;
+}
+#b20{
+    background-color:wheat;
+    margin-left: 506px;
+    margin-top: -100px;
+}
+#b21{
+    background-color:brown;
+    margin-left: 565px;
+    margin-top: -100px;
+}

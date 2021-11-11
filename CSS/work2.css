@@ -1,0 +1,12 @@
+h1/*tag selector*/{
+    color: crimson;
+}
+#h1{
+    color: darkturquoise;
+}
+#h2{
+    color: darkolivegreen;
+}
+.c1{
+    color: forestgreen;
+}

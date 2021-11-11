@@ -1,0 +1,12 @@
+div{
+    border: solid black;
+    width: 200px;
+    padding: 50px;
+
+}
+#a1{
+    margin-top: 100px;
+}
+div p{
+    color: brown;
+}

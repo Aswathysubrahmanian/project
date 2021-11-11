@@ -1,0 +1,37 @@
+body{
+    background-image: url(./images/home.jpg);
+   background-size: 25%;
+    background-position: top center;
+    background-repeat: no-repeat;
+    height: 2000px;
+    width: 100%;
+    background-attachment: fixed;
+    
+}
+div{
+   
+    position:sticky;
+    text-align: center;
+    color:cyan;
+    border-style:double red 2px;
+    top: 2px;
+    text-shadow: darkred;
+    text-transform: uppercase;
+    text-indent: 3px;
+}
+p{
+    border:solid lightblue 2px;
+    text-align: left;
+    text-transform: capitalize 50px;
+    width: 30%;
+}
+#a{
+    border: lightgray 50%;
+    
+    text-align: left;
+    outline: maroon;
+}
+#b{
+    margin-top: -150px;
+    margin-left: 900px;
+}
